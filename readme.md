@@ -22,7 +22,7 @@ source <venv-name-here>/bin/activate
 
 For Windows:
 ```powershell
-./<venv-name-here>/Script/Activate.ps1
+.\<venv-name-here>\Scripts\Activate.ps1
 ```
 
 Install required packages:
