@@ -28,7 +28,7 @@ For Windows:
 Install required packages:
 
 ```bash
-pip3 install -r requirements
+pip install -r requirements
 ```
 
 ## Run
@@ -36,5 +36,5 @@ pip3 install -r requirements
 Activate virtual environment first, then enter the command below:
 
 ```bash
-python3 main.py
+python main.py
 ```
