@@ -1,6 +1,6 @@
 # RBF-SVM GUI
 
-**This a RBF-SVM for image classification.**
+**This RBF-SVM is for image classification.**
 
 **GUI is powered by PyQt5**
 
